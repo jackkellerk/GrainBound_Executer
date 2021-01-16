@@ -1,0 +1,13 @@
+C:\Users\jkell\source\repos\GrainBound\GrainBound\bin\Debug\netcoreapp3.1\GrainBound.exe
+C:\Users\jkell\source\repos\GrainBound\GrainBound\bin\Debug\netcoreapp3.1\GrainBound.deps.json
+C:\Users\jkell\source\repos\GrainBound\GrainBound\bin\Debug\netcoreapp3.1\GrainBound.runtimeconfig.json
+C:\Users\jkell\source\repos\GrainBound\GrainBound\bin\Debug\netcoreapp3.1\GrainBound.runtimeconfig.dev.json
+C:\Users\jkell\source\repos\GrainBound\GrainBound\bin\Debug\netcoreapp3.1\GrainBound.dll
+C:\Users\jkell\source\repos\GrainBound\GrainBound\bin\Debug\netcoreapp3.1\GrainBound.pdb
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.csprojAssemblyReference.cache
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.AssemblyInfoInputs.cache
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.AssemblyInfo.cs
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.csproj.CoreCompileInputs.cache
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.dll
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.pdb
+C:\Users\jkell\source\repos\GrainBound\GrainBound\obj\Debug\netcoreapp3.1\GrainBound.genruntimeconfig.cache
