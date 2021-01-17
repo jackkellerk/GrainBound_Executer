@@ -1,35 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jkell\\source\\repos\\GrainBound_Executer\\GrainBound\\GrainBound.csproj": {}
+    "C:\\Stuff\\School\\fall 2020\\grainbound\\GrainBound_Executer\\GrainBound\\GrainBound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jkell\\source\\repos\\GrainBound_Executer\\GrainBound\\GrainBound.csproj": {
+    "C:\\Stuff\\School\\fall 2020\\grainbound\\GrainBound_Executer\\GrainBound\\GrainBound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jkell\\source\\repos\\GrainBound_Executer\\GrainBound\\GrainBound.csproj",
+        "projectUniqueName": "C:\\Stuff\\School\\fall 2020\\grainbound\\GrainBound_Executer\\GrainBound\\GrainBound.csproj",
         "projectName": "GrainBound",
-        "projectPath": "C:\\Users\\jkell\\source\\repos\\GrainBound_Executer\\GrainBound\\GrainBound.csproj",
-        "packagesPath": "C:\\Users\\jkell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jkell\\source\\repos\\GrainBound_Executer\\GrainBound\\obj\\",
+        "projectPath": "C:\\Stuff\\School\\fall 2020\\grainbound\\GrainBound_Executer\\GrainBound\\GrainBound.csproj",
+        "packagesPath": "C:\\Users\\Ben\\.nuget\\packages\\",
+        "outputPath": "C:\\Stuff\\School\\fall 2020\\grainbound\\GrainBound_Executer\\GrainBound\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jkell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -40,8 +36,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -57,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

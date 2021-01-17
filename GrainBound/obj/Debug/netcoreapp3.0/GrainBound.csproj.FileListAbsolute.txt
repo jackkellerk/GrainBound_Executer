@@ -1,0 +1,11 @@
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.csprojAssemblyReference.cache
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.AssemblyInfoInputs.cache
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.AssemblyInfo.cs
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.exe
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.deps.json
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.runtimeconfig.json
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.runtimeconfig.dev.json
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.dll
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.pdb
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.dll
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.pdb

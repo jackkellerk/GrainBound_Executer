@@ -19,10 +19,12 @@ namespace GrainBound
 
             /* execute "dir" */
 
-            cmd.StandardInput.WriteLine("C:\\Users\\" + Environment.UserName + "\\AppData\\Roaming\\GrainBound\\GrainBound\\python\\python.exe GrainBoundApp_no_eds.py");
+            cmd.StandardInput.WriteLine(Environment.CurrentDirectory + "\\python\\python.exe GrainBoundApp_no_eds.py");
             cmd.StandardInput.Flush();
             cmd.StandardInput.Close();
             Console.WriteLine(cmd.StandardOutput.ReadToEnd());
+
+            cmd.Dispose();
         }
     }
 }
