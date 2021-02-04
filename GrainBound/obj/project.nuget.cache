@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9y961TpXlVXph57t5M5rtbR5pfHeQNrRgQy/MtJhx4bjX+kPjDflRFBDws0DI2xl+qIPH2rL0jvwO7WJa3W93w==",
+  "dgSpecHash": "57RzPcWcE0dA0uTnvP4MzQNHZN0b+zHmNGlbfZ1nwqk7LTBqCqUxc+mE05TN+TwgcBFVAT71eWR4x0jsW7sdrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jkell\\source\\repos\\GrainBound_Executer\\GrainBound\\GrainBound.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Stuff\\School\\fall 2020\\grainbound\\GrainBound_Executer\\GrainBound\\GrainBound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

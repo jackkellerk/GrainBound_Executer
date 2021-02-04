@@ -9,3 +9,5 @@ C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\ne
 C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\bin\Debug\netcoreapp3.0\GrainBound.pdb
 C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.dll
 C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.pdb
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.csproj.CoreCompileInputs.cache
+C:\Stuff\School\fall 2020\grainbound\GrainBound_Executer\GrainBound\obj\Debug\netcoreapp3.0\GrainBound.genruntimeconfig.cache

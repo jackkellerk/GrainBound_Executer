@@ -5,9 +5,11 @@ namespace GrainBound
 {
     class Program
     {
+        private const string GRAINBOUND_PYTHON_FILE_NAME = "GrainBoundApp_no_eds.py";
+
         static void Main(string[] args)
         {
-            if(!System.IO.File.Exists(Environment.CurrentDirectory + "\\python\\python.exe") || !System.IO.File.Exists("GrainBoundApp_no_eds.py"))
+            if(!System.IO.File.Exists(Environment.CurrentDirectory + "\\python\\python.exe") || !System.IO.File.Exists(GRAINBOUND_PYTHON_FILE_NAME))
             {
                 Console.WriteLine("ERROR: Main python files not found! GrainBound did not install correctly. Press any key to continue...");
                 Console.ReadKey();
@@ -26,11 +28,10 @@ namespace GrainBound
 
             /* execute "dir" */
 
-            Console.WriteLine("Launching GrainBound process...");
-
-            cmd.StandardInput.WriteLine(Environment.CurrentDirectory + "\\python\\python.exe GrainBoundApp_no_eds.py");
+            cmd.StandardInput.WriteLine(Environment.CurrentDirectory + "\\python\\python.exe " + GRAINBOUND_PYTHON_FILE_NAME);
             cmd.StandardInput.Flush();
             cmd.StandardInput.Close();
+
             Console.WriteLine(cmd.StandardOutput.ReadToEnd());
 
             cmd.Dispose();
