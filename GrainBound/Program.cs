@@ -5,7 +5,7 @@ namespace GrainBound
 {
     class Program
     {
-        private const string GRAINBOUND_PYTHON_FILE_NAME = "GrainBoundApp_no_eds.py";
+        private const string GRAINBOUND_PYTHON_FILE_NAME = "GrainBoundApp.py";
 
         static void Main(string[] args)
         {
@@ -28,7 +28,7 @@ namespace GrainBound
 
             /* execute "dir" */
 
-            cmd.StandardInput.WriteLine(Environment.CurrentDirectory + "\\python\\python.exe " + GRAINBOUND_PYTHON_FILE_NAME);
+            cmd.StandardInput.WriteLine("\"" + Environment.CurrentDirectory + "\\python\\python.exe\" " + GRAINBOUND_PYTHON_FILE_NAME);
             cmd.StandardInput.Flush();
             cmd.StandardInput.Close();
 
